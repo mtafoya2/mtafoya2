@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mario Tafoya
-- 👀 I’m interested in Aritificial Intelligence and space.
+- 👀 I’m interested in Aritificial Intelligence and games.
 - 🌱 I’m currently learning Data structures and Algorithms.
 - 💞️ I’m looking to collaborate on ways to display, mount, and optimize sensors/sensor array data.
 - 📫 email: mtafoya2@uci.edu
